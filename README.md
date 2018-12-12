@@ -1,7 +1,7 @@
 # Horse Power
 
 A horse betting strategy:
-  - Back a house in-play when the odds drop below x
+  - Back a horse in-play when the odds drop below x
 
 Backtests ran on the data obtained from **Betfair** for the period from 1st Oct 2018 till 30th Oct 2018.
 
