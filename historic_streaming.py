@@ -87,7 +87,7 @@ class Tester(object):
         self.settledTime = None
         self.winnerId = None
         self.predictedId = None
-        self.threshold = 1.8
+        self.threshold = 1.3
         self.startTime = None
         self.timeOfDecision = None
         self.folder = folder
